@@ -1,6 +1,5 @@
 # Survival Quest
 
-Developing a **survival game** using Pygame is an exciting and challenging project that can significantly enhance your programming skills. Below, I'll provide an in-depth exploration of this project idea, including detailed descriptions, implementation strategies, and the learning outcomes you can expect.
 
 ---
 
